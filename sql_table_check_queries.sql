@@ -1,12 +1,8 @@
-select * from "Categories" c 
-;
+select * from "Categories" c; 
 
-select * from "Contacts"
-;
+select * from "Contacts" cn;
 
-select * from "Crowd_Funding" cf 
-;
+select * from "Crowd_Funding" cf;
 
-select * from "Subcategories" s 
-;
+select * from "Subcategories" s;
 
